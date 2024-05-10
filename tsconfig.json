@@ -3,7 +3,7 @@
     "target": "ES2020",
     "module": "NodeNext",
     "rootDir": "./src",
-    "outDir": "./build",
+    "outDir": "./public",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
